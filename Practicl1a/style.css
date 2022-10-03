@@ -1,0 +1,45 @@
+#heading {
+  height: 50px;
+  width: 100%;
+  border: 1px solid blueviolet;
+  margin: 1px auto;
+}
+ul li {
+  display: inline-block;
+  /*width: 100%;*/
+}
+main {
+  height: 150px;
+  width: 100%;
+  border: 1px solid blueviolet;
+  margin: 1px auto;
+}
+#img1 {
+  height: 100px;
+  width: 100px;
+  border: 1px solid black;
+  margin: 1px auto;
+}
+#img2 {
+  height: 100px;
+  width: 100px;
+  border: 1px solid black;
+  margin: 1px auto;
+}
+#img3 {
+  height: 100px;
+  width: 100px;
+  border: 1px solid black;
+  margin: 1px auto;
+}
+#img4 {
+  height: 100px;
+  width: 100px;
+  border: 1px solid black;
+  margin: 1px auto;
+}
+img {
+  height: 90px;
+  width: 90px;
+  margin: center;
+}

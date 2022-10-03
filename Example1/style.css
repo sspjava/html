@@ -1,0 +1,49 @@
+header,
+footer {
+  height: 60px;
+  width: 100%;
+  border-bottom: 1px solid black;
+  background: cornflowerblue;
+}
+header,
+h1 {
+  padding-left: 10px;
+}
+nav {
+  height: 50px;
+}
+nav,
+ul {
+  margin: 0;
+  padding: 0;
+  text-align: center;
+  padding-top: 15px;
+}
+nav,
+ul,
+li {
+  display: inline;
+}
+main {
+  height: 450px;
+  width: 80%;
+  margin: auto;
+}
+main,
+h3 {
+  font-size: 20px;
+}
+main,
+p {
+  font-size: 15px;
+}
+footer {
+  position: sticky;
+  margin-top: 35px;
+  border-bottom: none;
+}
+footer,
+p {
+  text-align: center;
+  border-bottom: none;
+}

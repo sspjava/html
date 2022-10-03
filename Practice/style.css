@@ -1,0 +1,21 @@
+table {
+  height: 50px;
+  border: 1px solid black;
+  margin: auto;
+}
+h1 {
+  text-align: center;
+  text-transform: capitalize;
+}
+th {
+  width: 100px;
+}
+table tr th {
+  border: 1px solid rgb(88, 39, 39);
+  text-transform: capitalize;
+  border-collapse: collapse;
+  text-align: left;
+}
+caption {
+  caption-side: bottom;
+}

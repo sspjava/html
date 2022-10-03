@@ -1,0 +1,25 @@
+#heading {
+  height: 20px;
+  background-color: rgb(192, 255, 203);
+  width: 100%;
+  text-align: center;
+}
+div {
+  height: 250px;
+  width: 100%;
+}
+ul li {
+  display: inline-block;
+  height: inherit;
+  margin-bottom: 10px;
+}
+img {
+  border-top-right-radius: 30px;
+  border-bottom-right-radius: 30px;
+}
+#imgDiv {
+  height: 80px;
+  width: 40%;
+
+  position: fixed;
+}

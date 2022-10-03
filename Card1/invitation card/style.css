@@ -1,0 +1,22 @@
+h1 {
+  height: 40px;
+  width: 20%;
+  text-align: center;
+  border: 2px solid black;
+  border-radius: 25px;
+  margin-left: 290px;
+}
+p {
+  color: black;
+  border: 2px solid black;
+  text-align: center;
+  width: 400px;
+  font-size: 30px;
+  height: 300px;
+}
+a {
+  text-align: left;
+}
+ul li {
+  display: inline-block;
+}

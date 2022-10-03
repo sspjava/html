@@ -1,0 +1,50 @@
+body {
+  height: 600px;
+}
+.normalDiv {
+  height: 120px;
+  width: 50%;
+  position: static;
+  right: 0;
+  background: blueviolet;
+}
+.sticky {
+  height: 30px;
+  width: 100%;
+  border: 1px solid black;
+  position: sticky;
+  bottom: 0;
+}
+.divWithRe1 {
+  height: 120px;
+  background: chocolate;
+  position: relative;
+  width: 50%;
+  right: 0;
+}
+.posFixed {
+  position: fixed;
+  bottom: 0;
+  background-color: rgb(160, 95, 95);
+  height: 35px;
+  width: 100%;
+}
+.parentDiv {
+  height: 100px;
+  width: 100%;
+  border: 1px solid black;
+  position: relative;
+}
+.child1,
+.child2 {
+  height: 30px;
+  width: 50%;
+}
+.child1 {
+  background: darkcyan;
+}
+.child2 {
+  background: rgb(88, 0, 139);
+  position: absolute;
+  bottom: 0;
+}

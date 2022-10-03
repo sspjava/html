@@ -1,0 +1,44 @@
+.parent-div{
+    border: 2px solid rgb(78, 13, 13);
+    margin: 13px;
+    padding: 4px;
+    background-color: rgb(204, 13, 13);
+    
+}
+.parent-div1{
+    border: 2px solid rgb(70, 56, 11);
+    margin: 13px;
+    padding: 4px;
+    background-color: rgb(160, 221, 39);
+}
+.parent-div2{
+    border: 2px solid rgb(15, 53, 83);
+    margin: 13px;
+    padding: 4px;
+    height: 240px;
+    background-color: rgb(195, 0, 255);
+}
+.parent-div3{
+    border: 2px solid rgb(116, 16, 74);
+    margin: 13px;
+    padding: 4px;
+    width: 50%;
+    display: inline-block;
+    text-align: right;
+   height: 200px;
+   background-color: rgb(255, 0, 149);
+}
+.parent-div4{
+    border: 2px solid rgb(14, 83, 68);
+    height: 50px;
+    margin: 5px;
+    background-color: rgb(35, 171, 196);
+}
+aside{
+    border: 2px solid rgb(116, 16, 74);
+    width: 10%;
+    display: inline-block;
+      height: 150px;
+   
+    background-color: rgb(255, 0, 149);
+}

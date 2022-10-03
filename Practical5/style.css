@@ -1,0 +1,15 @@
+#heading {
+  border: 1px solid black;
+  height: 350px;
+  margin: 200px auto;
+  position: sticky;
+  width: 30%;
+}
+#heading1 {
+  border: 1px solid black;
+  height: 70px;
+  margin: 200px auto;
+  position: relative;
+  width: 40%;
+  margin-top: 100px;
+}

@@ -1,0 +1,37 @@
+body {
+  font-family: system-ui;
+}
+nav {
+  height: 60px;
+  background: #6091db;
+}
+nav,
+ul {
+  text-align: left;
+}
+nav,
+ul,
+li {
+  display: inline;
+  padding: 10px 20px;
+  text-align: right;
+}
+nav,
+li,
+ul,
+a {
+  text-decoration: none;
+}
+main {
+  width: 100%;
+  height: 200px;
+}
+main article {
+  display: inline-block;
+  width: 24%;
+  margin-top: 20px;
+  border-right: 1px solid blueviolet;
+}
+#Article {
+  border-right: none;
+}
